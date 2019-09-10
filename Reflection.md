@@ -1,9 +1,9 @@
 # My Reflection / Blog
-Use this file to submit your blog post to your github account / repo. In it, include some markdown to practice, especially a link to your video.
-*Screencast submission* - [YouTube video by HAXcms core contributor Michael Potter](https://www.youtube.com/watch?v=5aPae031TxM&list=PLJQupiji7J5cGYiOflGYFwXSEoHMoowkP&index=17&t=0s)
-Here's a reminder of how you do the link above as code.
+Hi all, this week my screencast involved GitHub and Pull Requests. GitHub is a platform that allows for easy open source sharing and communication, and for the most part with code. To create this ease of collaboration, there is a feature known as Pull Requests. 
+ 
+A Pull Request is created after someone makes a change to a particular branch of a repo. Once the change is proposed, the Pull Request is used to show the changes that are being suggested and allowing for users to discuss the changes and whether or not they will be merged into the the base branch. This is a great way to effectively collaborate on files, code, etc. because of the direct communication. 
+
 ```markdown
-*Screencast submission* - [YouTube video by HAXcms core contributor Michael Potter](https://www.youtube.com/watch?v=5aPae031TxM&list=PLJQupiji7J5cGYiOflGYFwXSEoHMoowkP&index=17&t=0s)
+*Screencast submission* - [YouTube video by DeGarmoTech](https://youtu.be/il-ZK9BmsQQ)
 ```
 
-Good luck!
